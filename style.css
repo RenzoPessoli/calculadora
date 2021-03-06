@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+.botones {
+    margin: 10px;
+    padding-inline: 3pc;
+    padding-top: 1pc;
+    padding-bottom: 1pc;
+    border-radius: 1pc;
+}
+#flex-input{
+    display: flex;
+    justify-content: center;
+    
+}
+#input{
+    padding: 1pc;
+    padding-inline: 2pc;
+}
+.fila-botones{
+    display: flex;
+    justify-content: center;
+}
+#igual{
+    background-color: slateblue;
+    margin: 10px;
+    padding-inline: 3pc;
+    padding-top: 1pc;
+    padding-bottom: 1pc;
+    border-radius: 1pc;
+}
+.botones-operadores{
+    margin: 10px;
+    padding-inline: 3pc;
+    padding-top: 1pc;
+    padding-bottom: 1pc;
+    border-radius: 1pc;
+    background-color: rgb(107, 107, 107);
+}
+#clear{
+    margin: 10px;
+    padding-inline: 3pc;
+    padding-top: 1pc;
+    padding-bottom: 1pc;
+    border-radius: 1pc; 
+}
